@@ -1,1 +1,1 @@
-# python-day3-assingment-b7
+# python-assingment-b7
